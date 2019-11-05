@@ -1,0 +1,12 @@
+body{
+text-align: center;background-color: #eae1e1; color: #564a4a;
+margin-right: 100px; margin-left: 100px
+}
+
+div{ width: 1000px;/*text-align:center;*/margin: auto;
+	background:blanchedalmond;line-height: normal;
+}
+
+table{
+	width: 50%; margin: auto;
+	}
